@@ -1,4 +1,3 @@
-setwd("C:/Users/naoum/OneDrive/Documents/Στατιστικη/Ανάλυση Δεδομένων/ergasies/Εργασία 1")
 
 library(haven)
 library(psych) 
